@@ -1,4 +1,4 @@
 # shooting_game_py
-> opm game
-> datasaved in mysql database 
-> made with pygame framework
+>  * opm game :game:
+> * data saved in mysql database :floppy:
+> * made with pygame framework :computer:
